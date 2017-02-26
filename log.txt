@@ -1,0 +1,53 @@
+commited couples
+
+1. guy's name : zjpwabwtjm      girl's name: zsmruphztv
+gifts are 
+1 value: 0,  price: 30, type: ugift
+2 value: 8,  price: 30, type: ugift
+3 value: 1,  price: 30, type: lgift
+4 value: 5,  price: 38, type: egift
+5 value: 6,  price: 38, type: lgift
+6 value: 7,  price: 38, type: egift
+7 value: 7,  price: 38, type: ugift
+8 value: 8,  price: 38, type: lgift
+9 value: 4,  price: 46, type: ugift
+10 value: 8,  price: 46, type: lgift
+11 value: 5,  price: 46, type: lgift
+12 value: 6,  price: 46, type: lgift
+13 value: 1,  price: 30, type: lgift
+
+2. guy's name : ddiuspdmzr      girl's name: conujhcjxw
+gifts are 
+1 value: 5,  price: 30, type: ugift
+
+3. guy's name : mnlejyvagr      girl's name: wvjnojsrrf
+gifts are 
+1 value: 5,  price: 30, type: egift
+2 value: 6,  price: 30, type: egift
+3 value: 1,  price: 30, type: lgift
+4 value: 0,  price: 30, type: lgift
+5 value: 7,  price: 38, type: ugift
+6 value: 5,  price: 38, type: egift
+7 value: 9,  price: 38, type: ugift
+8 value: 3,  price: 38, type: ugift
+9 value: 9,  price: 38, type: egift
+10 value: 9,  price: 46, type: lgift
+11 value: 9,  price: 46, type: egift
+12 value: 9,  price: 46, type: egift
+13 value: 1,  price: 46, type: egift
+14 value: 8,  price: 46, type: egift
+15 value: 1,  price: 30, type: lgift
+
+4. guy's name : uocfdakiwi      girl's name: rhnuzjdtqr
+gifts are 
+1 value: 2,  price: 30, type: egift
+2 value: 9,  price: 30, type: ugift
+3 value: 1,  price: 30, type: ugift
+4 value: 5,  price: 30, type: egift
+5 value: 7,  price: 30, type: egift
+6 value: 1,  price: 30, type: lgift
+7 value: 9,  price: 30, type: ugift
+8 value: 9,  price: 30, type: ugift
+9 value: 1,  price: 30, type: egift
+10 value: 1,  price: 30, type: lgift
+
