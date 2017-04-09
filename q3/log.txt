@@ -1,0 +1,85 @@
+commited couples
+
+1. guy's name : wznttravde      girl's name: elbcrzrwdl
+gifts are 
+1 value: 9,  price: 30, type: instance
+2 value: 3,  price: 30, type: instance
+3 value: 7,  price: 30, type: instance
+4 value: 8,  price: 30, type: instance
+5 value: 5,  price: 38, type: instance
+6 value: 8,  price: 38, type: instance
+7 value: 1,  price: 38, type: instance
+8 value: 7,  price: 38, type: instance
+9 value: 0,  price: 38, type: instance
+
+2. guy's name : bwygvsjppf      girl's name: iiopabzmsw
+gifts are 
+1 value: 8,  price: 30, type: instance
+2 value: 2,  price: 30, type: instance
+3 value: 3,  price: 30, type: instance
+4 value: 1,  price: 30, type: instance
+5 value: 0,  price: 38, type: instance
+6 value: 0,  price: 38, type: instance
+7 value: 5,  price: 38, type: instance
+8 value: 0,  price: 38, type: instance
+9 value: 7,  price: 38, type: instance
+10 value: 8,  price: 38, type: instance
+11 value: 4,  price: 38, type: instance
+12 value: 4,  price: 38, type: instance
+13 value: 6,  price: 46, type: instance
+14 value: 7,  price: 46, type: instance
+15 value: 6,  price: 46, type: instance
+16 value: 5,  price: 46, type: instance
+17 value: 5,  price: 46, type: instance
+18 value: 6,  price: 46, type: instance
+19 value: 8,  price: 46, type: instance
+20 value: 5,  price: 54, type: instance
+21 value: 2,  price: 54, type: instance
+
+3. guy's name : dgsxnqbcnd      girl's name: glgbtcfhzd
+gifts are 
+1 value: 5,  price: 30, type: instance
+2 value: 9,  price: 30, type: instance
+3 value: 2,  price: 30, type: instance
+4 value: 2,  price: 30, type: instance
+5 value: 5,  price: 30, type: instance
+
+4. guy's name : ywlnxgjydc      girl's name: axithuydqu
+gifts are 
+1 value: 0,  price: 30, type: instance
+2 value: 5,  price: 30, type: instance
+3 value: 8,  price: 30, type: instance
+4 value: 5,  price: 30, type: instance
+5 value: 4,  price: 30, type: instance
+6 value: 3,  price: 30, type: instance
+7 value: 6,  price: 38, type: instance
+8 value: 1,  price: 38, type: instance
+9 value: 3,  price: 38, type: instance
+10 value: 8,  price: 38, type: instance
+11 value: 3,  price: 38, type: instance
+12 value: 4,  price: 38, type: instance
+13 value: 1,  price: 38, type: instance
+14 value: 6,  price: 38, type: instance
+15 value: 8,  price: 38, type: instance
+16 value: 1,  price: 38, type: instance
+17 value: 2,  price: 38, type: instance
+18 value: 5,  price: 46, type: instance
+19 value: 7,  price: 46, type: instance
+20 value: 5,  price: 46, type: instance
+21 value: 3,  price: 46, type: instance
+
+5. guy's name : pxpfdizuat      girl's name: hfvrpsljsr
+gifts are 
+1 value: 9,  price: 30, type: instance
+2 value: 5,  price: 30, type: instance
+3 value: 5,  price: 30, type: instance
+4 value: 5,  price: 30, type: instance
+5 value: 8,  price: 38, type: instance
+6 value: 5,  price: 38, type: instance
+7 value: 9,  price: 38, type: instance
+8 value: 9,  price: 46, type: instance
+9 value: 7,  price: 46, type: instance
+10 value: 5,  price: 54, type: instance
+11 value: 4,  price: 54, type: instance
+12 value: 4,  price: 54, type: instance
+

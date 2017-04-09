@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#/home/swapnil/Documents/Updated_pplass/q3</OriginalElement>
+  <nodes>
+    <node x="694.0" y="328.0">commboy.geek</node>
+    <node x="1101.5" y="246.0">gift.lgift</node>
+    <node x="172.0" y="328.0">commgirl.desperate</node>
+    <node x="725.5" y="82.0">object</node>
+    <node x="367.0" y="328.0">commgirl.normal</node>
+    <node x="217.06018518518516" y="164.0">girl.girl</node>
+    <node x="986.5" y="246.0">gift.ugift</node>
+    <node x="0.0" y="328.0">commgirl.choosy</node>
+    <node x="855.0" y="328.0">commboy.miser</node>
+    <node x="539.0" y="328.0">commboy.kind</node>
+    <node x="871.5" y="246.0">gift.egift</node>
+    <node x="675.0" y="0.0">_collections_abc.Hashable</node>
+    <node x="449.5851851851852" y="164.0">gift.basket</node>
+    <node x="174.06018518518516" y="246.0">commgirl.commgirl</node>
+    <node x="720.5" y="164.0">boy.boy</node>
+    <node x="1001.7388888888888" y="164.0">gift.gift</node>
+    <node x="843.4888888888888" y="164.0">couple.couple</node>
+    <node x="677.5" y="246.0">commboy.commboy</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="object" target="_collections_abc.Hashable">
+      <point x="0.0" y="-16.0" />
+      <point x="0.0" y="16.0" />
+    </edge>
+    <edge source="commgirl.choosy" target="commgirl.commgirl">
+      <point x="0.0" y="-16.0" />
+      <point x="76.0" y="303.0" />
+      <point x="202.06018518518516" y="303.0" />
+      <point x="-56.0" y="16.0" />
+    </edge>
+    <edge source="commgirl.desperate" target="commgirl.commgirl">
+      <point x="0.0" y="-16.0" />
+      <point x="259.5" y="303.0" />
+      <point x="258.06018518518516" y="303.0" />
+      <point x="0.0" y="16.0" />
+    </edge>
+    <edge source="commboy.geek" target="commboy.commboy">
+      <point x="0.0" y="-16.0" />
+      <point x="0.0" y="16.0" />
+    </edge>
+    <edge source="commgirl.commgirl" target="girl.girl">
+      <point x="0.0" y="-16.0" />
+      <point x="0.0" y="16.0" />
+    </edge>
+    <edge source="gift.basket" target="object">
+      <point x="0.0" y="-16.0" />
+      <point x="504.0851851851852" y="144.0" />
+      <point x="748.9" y="144.0" />
+      <point x="-15.600000000000023" y="16.0" />
+    </edge>
+    <edge source="commboy.miser" target="commboy.commboy">
+      <point x="0.0" y="-16.0" />
+      <point x="927.0" y="303.0" />
+      <point x="822.5" y="303.0" />
+      <point x="58.0" y="16.0" />
+    </edge>
+    <edge source="couple.couple" target="object">
+      <point x="0.0" y="-16.0" />
+      <point x="910.4888888888888" y="144.0" />
+      <point x="780.1" y="144.0" />
+      <point x="15.600000000000023" y="16.0" />
+    </edge>
+    <edge source="commboy.commboy" target="boy.boy">
+      <point x="0.0" y="-16.0" />
+      <point x="0.0" y="16.0" />
+    </edge>
+    <edge source="boy.boy" target="object">
+      <point x="0.0" y="-16.0" />
+      <point x="0.0" y="16.0" />
+    </edge>
+    <edge source="commboy.kind" target="commboy.commboy">
+      <point x="0.0" y="-16.0" />
+      <point x="606.5" y="303.0" />
+      <point x="706.5" y="303.0" />
+      <point x="-58.0" y="16.0" />
+    </edge>
+    <edge source="girl.girl" target="object">
+      <point x="0.0" y="-16.0" />
+      <point x="258.06018518518516" y="134.0" />
+      <point x="733.3" y="134.0" />
+      <point x="-31.200000000000045" y="16.0" />
+    </edge>
+    <edge source="gift.lgift" target="gift.gift">
+      <point x="0.0" y="-16.0" />
+      <point x="1146.5" y="221.0" />
+      <point x="1073.4055555555556" y="221.0" />
+      <point x="28.666666666666742" y="16.0" />
+    </edge>
+    <edge source="gift.gift" target="object">
+      <point x="0.0" y="-16.0" />
+      <point x="1044.7388888888888" y="134.0" />
+      <point x="795.7" y="134.0" />
+      <point x="31.200000000000045" y="16.0" />
+    </edge>
+    <edge source="gift.egift" target="gift.gift">
+      <point x="0.0" y="-16.0" />
+      <point x="919.0" y="221.0" />
+      <point x="1016.0722222222222" y="221.0" />
+      <point x="-28.66666666666663" y="16.0" />
+    </edge>
+    <edge source="gift.ugift" target="gift.gift">
+      <point x="0.0" y="-16.0" />
+      <point x="1034.0" y="221.0" />
+      <point x="1044.7388888888888" y="221.0" />
+      <point x="0.0" y="16.0" />
+    </edge>
+    <edge source="commgirl.normal" target="commgirl.commgirl">
+      <point x="0.0" y="-16.0" />
+      <point x="443.0" y="303.0" />
+      <point x="314.06018518518516" y="303.0" />
+      <point x="56.0" y="16.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7648514851485149" x="694.8317152103559" y="220.20064724919092" />
+  <SelectedNodes />
+  <Categories />
+</Diagram>
+
