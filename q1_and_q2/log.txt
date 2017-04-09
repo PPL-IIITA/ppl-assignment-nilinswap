@@ -1,0 +1,64 @@
+commited couples
+
+1. guy's name : ptmguwulvj      girl's name: hutotxhwax
+gifts are 
+1 value: 5,  price: 30, type: lgift
+2 value: 9,  price: 30, type: lgift
+3 value: 3,  price: 30, type: egift
+4 value: 7,  price: 38, type: ugift
+5 value: 6,  price: 38, type: lgift
+6 value: 3,  price: 38, type: egift
+7 value: 2,  price: 38, type: ugift
+8 value: 5,  price: 46, type: lgift
+9 value: 7,  price: 46, type: ugift
+10 value: 5,  price: 30, type: lgift
+
+2. guy's name : aqesdpxedz      girl's name: immnrrqhru
+gifts are 
+1 value: 2,  price: 30, type: ugift
+2 value: 0,  price: 30, type: egift
+3 value: 2,  price: 30, type: ugift
+4 value: 6,  price: 30, type: lgift
+5 value: 6,  price: 30, type: lgift
+6 value: 9,  price: 30, type: ugift
+7 value: 0,  price: 30, type: lgift
+8 value: 2,  price: 30, type: egift
+9 value: 6,  price: 38, type: lgift
+10 value: 8,  price: 38, type: lgift
+11 value: 0,  price: 38, type: egift
+12 value: 0,  price: 38, type: lgift
+13 value: 4,  price: 38, type: ugift
+14 value: 9,  price: 38, type: lgift
+15 value: 1,  price: 46, type: ugift
+16 value: 6,  price: 30, type: lgift
+
+3. guy's name : thcwmmyaqm      girl's name: ygnohqrjfc
+gifts are 
+1 value: 2,  price: 30, type: egift
+2 value: 2,  price: 30, type: egift
+3 value: 5,  price: 30, type: egift
+4 value: 1,  price: 30, type: ugift
+5 value: 6,  price: 30, type: lgift
+6 value: 6,  price: 30, type: ugift
+7 value: 4,  price: 30, type: egift
+8 value: 6,  price: 30, type: lgift
+
+4. guy's name : xmesmcyxmg      girl's name: ghquvikeec
+gifts are 
+1 value: 7,  price: 30, type: lgift
+2 value: 6,  price: 30, type: ugift
+3 value: 5,  price: 30, type: lgift
+4 value: 6,  price: 30, type: ugift
+5 value: 5,  price: 30, type: lgift
+6 value: 9,  price: 38, type: ugift
+7 value: 5,  price: 38, type: ugift
+8 value: 8,  price: 38, type: egift
+9 value: 7,  price: 30, type: lgift
+
+5. guy's name : iyljiqdjru      girl's name: qxwkxezgzg
+gifts are 
+1 value: 9,  price: 30, type: lgift
+2 value: 9,  price: 30, type: ugift
+3 value: 9,  price: 30, type: lgift
+4 value: 9,  price: 30, type: lgift
+
