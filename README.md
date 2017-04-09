@@ -14,6 +14,7 @@ Python 3.5 or above required.
  ```
 # ADDITIONAL DETAILS
   -at all places, items, number etc are picked randomly
+  
   -for choices between different algorithm, an integer variable by name 'i' is used with if blocks. default is when i is set to 0.
  
  
